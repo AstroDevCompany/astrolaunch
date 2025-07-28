@@ -45,5 +45,5 @@ A spotlight-like app. The objective will be to compete with raycast... one day
 
 _Any contribution is accepted._
 
-Contact me on [WA](wa.me/393311384552)
+Contact me on [WA](wa.me/393311384552) for info or collaborate on notion.
 
