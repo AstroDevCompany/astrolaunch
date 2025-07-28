@@ -1,6 +1,6 @@
 # AstroLaunch
 
-A spotlight-like app. The objective will be to compete with raycast.
+A spotlight-like app. The objective will be to compete with raycast... one day
 
 **This is a cross-platform (windows and macos) Tauri v2 + React app.**
 
