@@ -44,3 +44,6 @@ A spotlight-like app. The objective will be to compete with raycast... one day
 #### Some of these still don't work.
 
 _Any contribution is accepted._
+
+Contact me on [WA](wa.me/393311384552)
+
